@@ -1,0 +1,2 @@
+track_id,label,n_frames,n_keyframes,frame_first,frame_last,L_med,L_min,L_max,L_drift,W_drift,H_drift,yaw_step_max_deg,pos_step_max_m,range_min_m,range_max_m,n_gaps
+0,vehicle,39,39,27,65,4.05,4.05,4.05,0.0,0.0,0.0,5.16,1.83,16.5,75.0,0
